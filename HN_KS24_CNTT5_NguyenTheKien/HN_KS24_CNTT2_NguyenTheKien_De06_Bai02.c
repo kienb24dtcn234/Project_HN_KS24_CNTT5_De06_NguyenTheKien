@@ -84,7 +84,7 @@ int main()
         printf("2. Hien Thi Cay Quyet Dinh \n");
         printf("3. Them Cau Hoi Hoac Hanh Dong \n");
         printf("4. Xoa Mot Nut Trong Cay \n");
-        printf("5. Thoat");
+        printf("5. Thoat\n");
         printf("Moi ban nhap lua chon : ");
         scanf("%d", &choice);
         switch (choice)
@@ -98,8 +98,8 @@ int main()
         case 4:
             break;
         case 5:
-            freeAll();
-            printf("Thoat chuong trinh !");
+            freeAll(&popStack,&dequeueQueue);
+            printf("Thoat chuong trinh ! \n");
             break;
             default:
             printf("Lua chon khong hop le ");
