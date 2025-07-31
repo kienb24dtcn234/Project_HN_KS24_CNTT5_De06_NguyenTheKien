@@ -1,0 +1,3 @@
+D:/HN_KS24_CNTT5_NguyenTheKien/cmake-build-debug/CMakeFiles/HN_KS24_CNTT5_NguyenTheKien.dir
+D:/HN_KS24_CNTT5_NguyenTheKien/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HN_KS24_CNTT5_NguyenTheKien/cmake-build-debug/CMakeFiles/rebuild_cache.dir
